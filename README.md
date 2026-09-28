@@ -1,12 +1,12 @@
-- 💗 Nombre: Elba Catalina Aquino Pascua.
-- 💗 Curso: 6°3.
-- 💗 Grupo de taller: 6.8.
-- 🏫 Colegio: Escuela Tecnica N°1 Esteban Echeverria.
-- 💗 Buenos Aires, Argetina.
-- 💗 Email: Catalinaaquinopascua@gmail.com.
+-  Nombre: Elba Catalina Aquino Pascua.
+-  Curso: 6°3.
+-  Grupo de taller: 6.8.
+- Colegio: Escuela Tecnica N°1 Esteban Echeverria.
+- Buenos Aires, Argentina.
+- Email: Catalinaaquinopascua@gmail.com.
 
 
-<img width="672" height="408" alt="tulipanes" src="https://github.com/user-attachments/assets/501fd3c3-d3e1-43c4-a98f-22f3d829f394" />
+
 
 
 - ⚪ Front-End:
